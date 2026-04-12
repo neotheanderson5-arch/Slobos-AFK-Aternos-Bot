@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": KushJay12.aternos.me",
+    "ip": "KushJay12.aternos.me",
     "port": 35118,
     "version": "1.21.11",
     "try-creative": false
